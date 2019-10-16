@@ -17,4 +17,10 @@ https://www.youtube.com/githubguides
 
 https://lab.github.com/
 
+For learning about close issues with code:
+
+https://help.github.com/en/articles/closing-issues-using-keywords#about-issue-references
+
+https://help.github.com/en/articles/autolinked-references-and-urls#issues-and-pull-requests
+
 # end file
